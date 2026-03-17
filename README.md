@@ -34,8 +34,6 @@ Users can upload any image, and the model detects objects by drawing bounding bo
 
 ##  Sample Output
 
-(Add your result image here later)
-
 
 ## Model Used
 
